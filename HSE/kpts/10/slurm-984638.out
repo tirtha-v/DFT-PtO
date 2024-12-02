@@ -1,0 +1,4 @@
+srun: error: spank: x11.so: Plugin file not found
+slurmstepd: error: *** STEP 984638.0 ON f024 CANCELLED AT 2024-11-30T07:15:26 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 984638 ON f024 CANCELLED AT 2024-11-30T07:15:26 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.

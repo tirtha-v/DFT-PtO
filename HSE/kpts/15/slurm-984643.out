@@ -1,0 +1,12 @@
+srun: error: spank: x11.so: Plugin file not found
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libpthread-2.17.s  000014A4E9548630  Unknown               Unknown  Unknown
+aims.221103.scala  000000000228A9DB  Unknown               Unknown  Unknown
+aims.221103.scala  00000000022CF89A  Unknown               Unknown  Unknown
+aims.221103.scala  00000000007A66D1  Unknown               Unknown  Unknown
+aims.221103.scala  0000000000411231  Unknown               Unknown  Unknown
+aims.221103.scala  00000000004135AD  Unknown               Unknown  Unknown
+aims.221103.scala  0000000000410F8D  Unknown               Unknown  Unknown
+libc-2.17.so       000014A4E8E8B555  __libc_start_main     Unknown  Unknown
+aims.221103.scala  0000000000410EB6  Unknown               Unknown  Unknown

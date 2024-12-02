@@ -1,0 +1,17 @@
+srun: error: spank: x11.so: Plugin file not found
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 984628.0 ON f006 CANCELLED AT 2024-11-29T07:14:24 ***
+slurmstepd: error: *** JOB 984628 ON f006 CANCELLED AT 2024-11-29T07:14:24 ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.17.s  000014B54DDE8630  Unknown               Unknown  Unknown
+aims.221103.scala  00000000020FA91D  Unknown               Unknown  Unknown
+aims.221103.scala  00000000020E2422  Unknown               Unknown  Unknown
+aims.221103.scala  00000000020D5480  Unknown               Unknown  Unknown
+aims.221103.scala  00000000020CD5B4  Unknown               Unknown  Unknown
+aims.221103.scala  00000000007A66C3  Unknown               Unknown  Unknown
+aims.221103.scala  0000000000411231  Unknown               Unknown  Unknown
+aims.221103.scala  00000000004135AD  Unknown               Unknown  Unknown
+aims.221103.scala  0000000000410F8D  Unknown               Unknown  Unknown
+libc-2.17.so       000014B54D72B555  __libc_start_main     Unknown  Unknown
+aims.221103.scala  0000000000410EB6  Unknown               Unknown  Unknown

@@ -1,0 +1,9 @@
+srun: error: spank: x11.so: Plugin file not found
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 984639.0 ON f013 CANCELLED AT 2024-11-30T07:15:26 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 984639 ON f013 CANCELLED AT 2024-11-30T07:15:26 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.17.s  0000150D8F59A630  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
